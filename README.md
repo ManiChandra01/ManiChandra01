@@ -69,7 +69,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManiChandra01&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" />
 </div>
 
 ---
@@ -78,8 +78,8 @@
   
 ### ⭐ **"Testing leads to perfection. Automation leads to efficiency."** ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=ManiChandra01&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ManiChandra01?style=social)](https://github.com/YOUR_USERNAME)
 
 **Thanks for visiting! Let’s build quality software together 🚀**
 
