@@ -12,7 +12,7 @@
 
 > **Passionate QA Automation Engineer exploring API Testing, Robot Framework, and Python scripting**
 
-- 🔭 Currently working on **Atomic Product API Automation Suite**
+- 🔭 Currently working on **API Automation Suite**
 - 🌱 Learning **Python & Robot Framework** in depth  
 - 👯 Open to collaborate on **API Test Automation Projects**  
 - 💬 Let's talk about **Automation Frameworks, API Testing, SDLC, Git, and Debugging**
